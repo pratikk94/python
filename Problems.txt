@@ -1,0 +1,150 @@
+W3_00001
+    Write a Python program to print the following string in a specific format (see the output).
+    Sample String : "Twinkle, twinkle, little star, How I wonder what you are! Up above the world
+    so high, Like a diamond in the sky. Twinkle, twinkle, little star, How I wonder what you are"
+    Output :
+
+        Twinkle, twinkle, little star,
+	        How I wonder what you are!
+                Up above the world so high,
+                Like a diamond in the sky.
+        Twinkle, twinkle, little star,
+	        How I wonder what you are
+
+---------------------------------------------------------------------------------------------------
+
+W3_00002
+    Write a Python program to find out what version of Python you are using.
+
+---------------------------------------------------------------------------------------------------
+
+W3_00003
+    Write a Python program to display the current date and time.
+
+---------------------------------------------------------------------------------------------------
+
+W3_00004
+    Write a Python program that calculates the area of a circle based on the radius entered by the
+    user.
+
+---------------------------------------------------------------------------------------------------
+
+W3_00005
+    Write a Python program that accepts the user's first and last name and prints them in reverse
+    order with a space between them.
+
+---------------------------------------------------------------------------------------------------
+
+W3_00006
+    Write a Python program that accepts a sequence of comma-separated numbers from the user and
+    generates a list and a tuple of those numbers.
+
+    Core concept : List to tuple conversion.
+
+---------------------------------------------------------------------------------------------------
+
+W3_00007
+    Write a Python program that accepts a filename from the user and prints the extension of the file.
+    Sample filename : abc.java
+
+    Output : java
+---------------------------------------------------------------------------------------------------
+
+W3_00008
+    Write a Python program to display the first and last colors from the following list.
+    color_list = ["Red","Green","White" ,"Black"]
+
+---------------------------------------------------------------------------------------------------
+
+W3_00009
+    Write a Python program to display the examination schedule. (extract the date from exam_st_date).
+    exam_st_date = (11, 12, 2014)
+    Sample Output : The examination will start from : 11 / 12 / 2014
+
+---------------------------------------------------------------------------------------------------
+
+W3_00010
+    Write a Python program that accepts an integer (n) and computes the value of n+nn+nnn.
+    Sample value of n is 5
+    Expected Result : 615
+
+---------------------------------------------------------------------------------------------------
+
+W3_00011
+    Write a Python program to print the documents (syntax, description etc.) of Python built-in function(s).
+    Sample function : abs()
+    Expected Result :
+    abs(number) -> number
+    Return the absolute value of the argument.
+
+---------------------------------------------------------------------------------------------------
+
+W3_00012
+    Write a Python program that prints the calendar for a given month and year.
+    Note : Use 'calendar' module
+
+    Core concept: Calendar Module
+
+---------------------------------------------------------------------------------------------------
+
+W3_00013
+    Write a Python program to print the following 'here document'.
+    Sample string :
+    a string that you "don't" have to escape
+    This
+    is a ....... multi-line
+    heredoc string --------> example
+
+---------------------------------------------------------------------------------------------------
+
+W3_00014
+    Write a Python program to calculate the number of days between two dates.
+    Sample dates : (2014, 7, 2), (2014, 7, 11)
+    Expected output : 9 days
+
+    Core concept: Subtracting a date.
+
+---------------------------------------------------------------------------------------------------
+
+W3_00015
+    Write a Python program to get the volume of a sphere with radius six.
+
+---------------------------------------------------------------------------------------------------
+
+W3_00016
+    Write a Python program to get the volume of a sphere with radius six.
+
+---------------------------------------------------------------------------------------------------
+
+W3_00017
+    Write a Python program to calculate the difference between a given number and 17.
+    If the number is greater than 17, return twice the absolute difference.
+
+---------------------------------------------------------------------------------------------------
+
+W3_00018
+    Write a Python program to test whether a number is within 100 of 1000 or 2000.
+
+---------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------
