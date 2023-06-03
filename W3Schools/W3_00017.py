@@ -1,10 +1,10 @@
 """
-    Write a Python program to calculate the difference between a given number and 17.
-    If the number is greater than 17, return twice the absolute difference.
+    Write a Python program to test whether a number is within 100 of 1000 or 2000.
 """
-
-no = int(input("Enter number"))
-if no >= 17:
-    print(2*abs(no-17))
+num = int(input("enter number"))
+if 900 <= num < 1100:
+    print(str(num) + " is in 100 between 1000")
+elif 1900 <= num < 2100:
+    print(str(num) + " is in 100 between 2000")
 else:
-    print(17-no)
+    print("Not matching criteria")
